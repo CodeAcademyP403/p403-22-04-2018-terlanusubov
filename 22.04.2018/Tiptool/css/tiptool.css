@@ -1,0 +1,24 @@
+span.tiptool-text{
+    position: absolute;
+    top: -60px;
+    left: 0%;
+    width: auto;
+    padding: 10px 5px;
+    background-color: red;
+    border-radius: 10px;
+    display: block;
+    visibility: hidden;
+    transition: all 0.2s linear;
+    z-index: 1;
+}
+span.tiptool-caret{
+    border: 10px solid red;
+    border-color: transparent;
+    position: absolute;
+    top: -16px;
+    left: 50%;
+    visibility: hidden;    
+    transform: translateX(-50%);
+    transition: all 0.2s linear;
+    z-index: 1;
+}

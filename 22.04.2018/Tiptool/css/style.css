@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+body{
+    height: 1200px;
+    background-color: #fcfaf3;
+}
+
+.mt-10{
+    margin-top: 5rem!important;
+}
+
+.btn1{
+    position: relative;
+}
+
